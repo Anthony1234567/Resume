@@ -1,2 +1,2 @@
 # Reume
-My personal resume (in prog.)
+My resume written in LaTeX
